@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Zf6XMJ6ZEeqt2KWCLjC2pQ" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_Zf6XMZ6ZEeqt2KWCLjC2pQ" comment="" name="DIRECTORYPATH" prompt="DIRECTORYPATH?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XMp6ZEeqt2KWCLjC2pQ" comment="" name="FILEAPATH" prompt="FILEAPATH?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XM56ZEeqt2KWCLjC2pQ" comment="" name="LOGFILENAME" prompt="LOGFILENAME?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XNJ6ZEeqt2KWCLjC2pQ" comment="" name="PROCESSID" prompt="PROCESSID?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XNZ6ZEeqt2KWCLjC2pQ" comment="" name="KOFILE" prompt="KOFILE?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XNp6ZEeqt2KWCLjC2pQ" comment="" name="OKFILE" prompt="OKFILE?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Zf6XN56ZEeqt2KWCLjC2pQ" confirmationNeeded="false" name="PARTIAL">
+    <contextParameter xmi:id="_Zf6XOJ6ZEeqt2KWCLjC2pQ" comment="" name="DIRECTORYPATH" prompt="DIRECTORYPATH?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XOZ6ZEeqt2KWCLjC2pQ" comment="" name="FILEAPATH" prompt="FILEAPATH?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XOp6ZEeqt2KWCLjC2pQ" comment="" name="LOGFILENAME" prompt="LOGFILENAME?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XO56ZEeqt2KWCLjC2pQ" comment="" name="PROCESSID" prompt="PROCESSID?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XPJ6ZEeqt2KWCLjC2pQ" comment="" name="KOFILE" prompt="KOFILE?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XPZ6ZEeqt2KWCLjC2pQ" comment="" name="OKFILE" prompt="OKFILE?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Zf6XPp6ZEeqt2KWCLjC2pQ" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="_Zf6XP56ZEeqt2KWCLjC2pQ" comment="" name="DIRECTORYPATH" prompt="DIRECTORYPATH?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XQJ6ZEeqt2KWCLjC2pQ" comment="" name="FILEAPATH" prompt="FILEAPATH?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XQZ6ZEeqt2KWCLjC2pQ" comment="" name="LOGFILENAME" prompt="LOGFILENAME?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XQp6ZEeqt2KWCLjC2pQ" comment="" name="PROCESSID" prompt="PROCESSID?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XQ56ZEeqt2KWCLjC2pQ" comment="" name="KOFILE" prompt="KOFILE?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Zf6XRJ6ZEeqt2KWCLjC2pQ" comment="" name="OKFILE" prompt="OKFILE?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_oH-10J6DEeqt2KWCLjC2pQ" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_oH-10Z6DEeqt2KWCLjC2pQ" comment="" name="id_object_salesforce" prompt="id_object_salesforce?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-10p6DEeqt2KWCLjC2pQ" comment="" name="source_system" prompt="source_system?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-1056DEeqt2KWCLjC2pQ" comment="" name="destination_system" prompt="destination_system?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-11J6DEeqt2KWCLjC2pQ" comment="" name="object_name" prompt="object_name?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_oH-11Z6DEeqt2KWCLjC2pQ" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="_oH-11p6DEeqt2KWCLjC2pQ" comment="" name="id_object_salesforce" prompt="id_object_salesforce?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-1156DEeqt2KWCLjC2pQ" comment="" name="source_system" prompt="source_system?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-12J6DEeqt2KWCLjC2pQ" comment="" name="destination_system" prompt="destination_system?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-12Z6DEeqt2KWCLjC2pQ" comment="" name="object_name" prompt="object_name?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_oH-12p6DEeqt2KWCLjC2pQ" confirmationNeeded="false" name="UAT">
+    <contextParameter xmi:id="_oH-1256DEeqt2KWCLjC2pQ" comment="" name="id_object_salesforce" prompt="id_object_salesforce?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-13J6DEeqt2KWCLjC2pQ" comment="" name="source_system" prompt="source_system?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-13Z6DEeqt2KWCLjC2pQ" comment="" name="destination_system" prompt="destination_system?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-13p6DEeqt2KWCLjC2pQ" comment="" name="object_name" prompt="object_name?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_oH-1356DEeqt2KWCLjC2pQ" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="_oH-14J6DEeqt2KWCLjC2pQ" comment="" name="id_object_salesforce" prompt="id_object_salesforce?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-14Z6DEeqt2KWCLjC2pQ" comment="" name="source_system" prompt="source_system?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-14p6DEeqt2KWCLjC2pQ" comment="" name="destination_system" prompt="destination_system?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oH-1456DEeqt2KWCLjC2pQ" comment="" name="object_name" prompt="object_name?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
